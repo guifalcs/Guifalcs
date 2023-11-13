@@ -4,7 +4,7 @@
 
 
 
-<a href='[[https://www.linkedin.com/in/%20devguilhermefalca](https://www.linkedin.com/in/guilherme-falcao-981021246/)o](https://www.linkedin.com/in/guilherme-falcao-981021246/)'><img height= '100px' width= '100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href='www.linkedin.com/in/devguilhermefalcao'><img height= '100px' width= '100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
                     
           
 
