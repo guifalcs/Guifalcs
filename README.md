@@ -4,7 +4,7 @@
 
 
 
-<a href='www.linkedin.com/in/devguilhermefalcao'><img height= '100px' width= '100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href='https://www.linkedin.com/in/devguilhermefalcao'><img height= '100px' width= '100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
                     
           
 
