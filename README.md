@@ -1,10 +1,10 @@
-# Seja Bem-vindo! 
+# Welcome! 
 
-## Meu nome é Guilherme Falcão, tenho 19 anos e sou um desenvolvedor web!🚀
+## My name is Guilherme Falcão and I am a web developer!🚀
 
-Atualmente, sou estagiário em desenvolvimento e trabalho com tecnologias como Angular, Node, Express, MySql, etc.
+I am currently a development intern and work with technologies such as Angular, Node, Express, MySql, etc.
 
-Sou uma pessoa que adora aprender e vencer desafios, valorizando cada novo conhecimento que adquiro durante meus estudos e experiências práticas na área!😆
+I am a person who loves to learn and overcome challenges, valuing each new knowledge that I acquire during my studies and practical experiences in the area!😆
 
 
 
